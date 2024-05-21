@@ -1,1 +1,1 @@
-<h1>Getting Started With Sideloadly</h1>
+# Getting Started With Sideloadly
