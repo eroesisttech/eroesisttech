@@ -59,6 +59,3 @@ A: RootHide Patcher explained here, but you can also fix it yourself, or wait fo
 * Select 'Convert' when prompted upon attempting to install incompatible package
 * If the package was originally rootful, patch using 'Directly convert simple tweaks'
 * Else if the tweak was made for rootless environment, patch 'using rootless compact layer'
-
-
-* [Bootstrap & Serotonin tips](https://www.reddit.com/r/jailbreak/comments/1adryxp/ios_16_serotonin_bootstrap_roothide_tweak_tips/) by u/mblend27
