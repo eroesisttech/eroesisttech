@@ -59,3 +59,5 @@ A: RootHide Patcher explained here, but you can also fix it yourself, or wait fo
 * Select 'Convert' when prompted upon attempting to install incompatible package
 * If the package was originally rootful, patch using 'Directly convert simple tweaks'
 * Else if the tweak was made for rootless environment, patch 'using rootless compact layer'
+
+<a href="guides/serotonin/uninstalling">Uninstall guide</a>.
